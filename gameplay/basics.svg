@@ -200,7 +200,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
      inkscape:cx="346.67635"
-     inkscape:cy="615.79417"
+     inkscape:cy="501.50846"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -217,7 +217,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -536,5 +536,92 @@
          d="m 558.57144,422.93466 7.39245,-1.65663 0,10.66361 -7.39245,1.28154 z"
          points="565.96389,421.27803 565.96389,431.94164 558.57144,433.22318 558.57144,422.93466 " />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'STIX Math';-inkscape-font-specification:'STIX Math, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="50"
+       y="493.79077"
+       id="text3404"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3406"
+         x="50"
+         y="493.79077"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'STIX Math';-inkscape-font-specification:'STIX Math, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="64.285713"
+       y="499.50504"
+       id="text3408"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3410"
+         x="64.285713"
+         y="499.50504">Newton's force</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'STIX Math';-inkscape-font-specification:'STIX Math, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="272.85715"
+       y="493.79077"
+       id="text3412"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3414"
+         x="272.85715"
+         y="493.79077">Water particle</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'STIX Math';-inkscape-font-specification:'STIX Math, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="505.71429"
+       y="509.50504"
+       id="text3416"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3418"
+         x="505.71429"
+         y="509.50504">Electron's orbital</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'STIX Math';-inkscape-font-specification:'STIX Math, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="48.571426"
+       y="582.36218"
+       id="text3420"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3422"
+         x="48.571426"
+         y="582.36218">The overworld map allows Atlas to </tspan><tspan
+         sodipodi:role="line"
+         x="48.571426"
+         y="632.36218"
+         id="tspan3424">explore and learn about the order of</tspan><tspan
+         sodipodi:role="line"
+         x="48.571426"
+         y="682.36218"
+         id="tspan3426">the nature. The more Atlas learns, the </tspan><tspan
+         sodipodi:role="line"
+         x="48.571426"
+         y="732.36218"
+         id="tspan3428">more he'll be able to find different </tspan><tspan
+         sodipodi:role="line"
+         x="48.571426"
+         y="782.36218"
+         id="tspan3432">combinations of the matter and increasing</tspan><tspan
+         sodipodi:role="line"
+         x="48.571426"
+         y="832.36218"
+         id="tspan3436">his potential. He won't be able to </tspan><tspan
+         sodipodi:role="line"
+         x="48.571426"
+         y="882.36218"
+         id="tspan3438">manipulate huge quantity of matter per </tspan><tspan
+         sodipodi:role="line"
+         x="48.571426"
+         y="932.36218"
+         id="tspan3440">action, he's got some limits he's not </tspan><tspan
+         sodipodi:role="line"
+         x="48.571426"
+         y="982.36218"
+         id="tspan3442">allowed to violate.</tspan></text>
   </g>
 </svg>

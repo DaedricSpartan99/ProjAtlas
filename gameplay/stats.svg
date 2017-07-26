@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg3422"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="stats.svg">
+  <defs
+     id="defs3424">
+    <marker
+       inkscape:stockid="Tail"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Tail"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <g
+         id="g4331"
+         transform="scale(-1.2)">
+        <path
+           id="path4333"
+           d="M -3.8048674,-3.9585227 L 0.54352094,0"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round" />
+        <path
+           id="path4335"
+           d="M -1.2866832,-3.9585227 L 3.0617053,0"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round" />
+        <path
+           id="path4337"
+           d="M 1.3053582,-3.9585227 L 5.6537466,0"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round" />
+        <path
+           id="path4339"
+           d="M -3.8048674,4.1775838 L 0.54352094,0.21974226"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round" />
+        <path
+           id="path4341"
+           d="M -1.2866832,4.1775838 L 3.0617053,0.21974226"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round" />
+        <path
+           id="path4343"
+           d="M 1.3053582,4.1775838 L 5.6537466,0.21974226"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round" />
+      </g>
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="439.68039"
+     inkscape:cy="886.8893"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3427">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:125%;font-family:'STIX Math';-inkscape-font-specification:'STIX Math, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="67.14286"
+       y="110.93363"
+       id="text3430"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3432"
+         x="67.14286"
+         y="110.93363"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GFS Theokritos';-inkscape-font-specification:'GFS Theokritos'">Atlas limits and statistics</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'STIX Math';-inkscape-font-specification:'STIX Math, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="77.14286"
+       y="208.07649"
+       id="text3434"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3436"
+         x="77.14286"
+         y="208.07649">Energy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'STIX Math';-inkscape-font-specification:'STIX Math, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="42.85717"
+       y="399.50507"
+       id="text3438"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3440"
+         x="42.85717"
+         y="399.50507">Brain's temperature</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'STIX Math';-inkscape-font-specification:'STIX Math, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="22.857149"
+       y="542.36224"
+       id="text3446"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="22.857149"
+         y="542.36224"
+         id="tspan4637">Cold blood and reaction</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'STIX Math';-inkscape-font-specification:'STIX Math, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="447.14285"
+       y="455.21936"
+       id="text3450"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3452"
+         x="447.14285"
+         y="455.21936" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'STIX Math';-inkscape-font-specification:'STIX Math, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="24.285715"
+       y="699.505"
+       id="text3473"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3475"
+         x="24.285715"
+         y="699.505">Capacity of perspective</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'STIX Math';-inkscape-font-specification:'STIX Math, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="420"
+       y="710.93365"
+       id="text3477"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3479"
+         x="420"
+         y="710.93365">Multitasking</tspan></text>
+    <rect
+       style="opacity:1;fill:#49bc16;fill-opacity:1;stroke:#120010;stroke-width:2.81947041;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3481"
+       width="215.89481"
+       height="34.466244"
+       x="78.481163"
+       y="237.98624" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'STIX Math';-inkscape-font-specification:'STIX Math, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="72.85714"
+       y="290.93362"
+       id="text4583"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4585"
+         x="72.85714"
+         y="290.93362" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'STIX Math';-inkscape-font-specification:'STIX Math, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="127.14286"
+       y="258.07648"
+       id="text4587"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4589"
+         x="127.14286"
+         y="258.07648" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'STIX Math';-inkscape-font-specification:'STIX Math, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="342.85718"
+       y="193.79077"
+       id="text4591"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4593"
+         x="342.85718"
+         y="193.79077">Every action needs a different</tspan><tspan
+         sodipodi:role="line"
+         x="342.85718"
+         y="218.79077"
+         id="tspan4595">energy to be performed. In the macro</tspan><tspan
+         sodipodi:role="line"
+         x="342.85718"
+         y="243.79077"
+         id="tspan4597">level, the energy used will depend from</tspan><tspan
+         sodipodi:role="line"
+         x="342.85718"
+         y="268.79077"
+         id="tspan4599">the mass moved or the size of the wave </tspan><tspan
+         sodipodi:role="line"
+         x="342.85718"
+         y="293.79077"
+         id="tspan4601">generated. In the micro level, energy </tspan><tspan
+         sodipodi:role="line"
+         x="342.85718"
+         y="318.79077"
+         id="tspan4603">is quantized, so every action has a </tspan><tspan
+         sodipodi:role="line"
+         x="342.85718"
+         y="343.79077"
+         id="tspan4609">specifical associated energy.</tspan></text>
+    <rect
+       style="opacity:1;fill:#d54416;fill-opacity:1;stroke:#120010;stroke-width:2.89233136;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4611"
+       width="195.82196"
+       height="30.107668"
+       x="109.94617"
+       y="430.87979" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'STIX Math';-inkscape-font-specification:'STIX Math, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="35.714283"
+       y="268.07651"
+       id="text4613"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4615"
+         x="35.714283"
+         y="268.07651"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GFS Theokritos';-inkscape-font-specification:'GFS Theokritos'">E</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'STIX Math';-inkscape-font-specification:'STIX Math, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="18.571428"
+       y="459.50507"
+       id="text4617"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4619"
+         x="18.571428"
+         y="459.50507"
+         style="-inkscape-font-specification:'GFS Theokritos';font-family:'GFS Theokritos';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">B.T.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'STIX Math';-inkscape-font-specification:'STIX Math, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="330"
+       y="412.36218"
+       id="text4621"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4623"
+         x="330"
+         y="412.36218">Every action heats, depending on the energy used, </tspan><tspan
+         sodipodi:role="line"
+         x="330"
+         y="437.36218"
+         id="tspan4625">a little bit Atlas' brain. If its temperature reaches </tspan><tspan
+         sodipodi:role="line"
+         x="330"
+         y="462.36218"
+         id="tspan4627">the limit, he won't be able to act for while.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'STIX Math';-inkscape-font-specification:'STIX Math, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="21.428572"
+       y="606.64795"
+       id="text4629"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4631"
+         x="21.428572"
+         y="606.64795"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GFS Theokritos';-inkscape-font-specification:'GFS Theokritos'"
+           id="tspan4633">CALM</tspan></tspan></text>
+    <rect
+       style="opacity:1;fill:#4f44be;fill-opacity:1;stroke:#120010;stroke-width:2.75072932;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4635"
+       width="157.39212"
+       height="34.534985"
+       x="138.44679"
+       y="573.66614" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'STIX Math';-inkscape-font-specification:'STIX Math, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="328.57144"
+       y="578.07648"
+       id="text4641"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4643"
+         x="328.57144"
+         y="578.07648">It could be cosidered as Atlas' level of calm. </tspan><tspan
+         sodipodi:role="line"
+         x="328.57144"
+         y="603.07648"
+         id="tspan4645">The more this value lowers, the more Atlas' </tspan><tspan
+         sodipodi:role="line"
+         x="328.57144"
+         y="628.07648"
+         id="tspan4647">reaction is slowed by its feelings.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'STIX Math';-inkscape-font-specification:'STIX Math, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="32.857143"
+       y="749.50507"
+       id="text4653"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4655"
+         x="32.857143"
+         y="749.50507">The perspective on the world is</tspan><tspan
+         sodipodi:role="line"
+         x="32.857143"
+         y="774.50507"
+         id="tspan4657">fondamental to understand his</tspan><tspan
+         sodipodi:role="line"
+         x="32.857143"
+         y="799.50507"
+         id="tspan4663">own potential. Increasing this value</tspan><tspan
+         sodipodi:role="line"
+         x="32.857143"
+         y="824.50507"
+         id="tspan4669">means that Atlas will be allowed to act</tspan><tspan
+         sodipodi:role="line"
+         x="32.857143"
+         y="849.50507"
+         id="tspan4671">onto smaller orders of magnitude,</tspan><tspan
+         sodipodi:role="line"
+         x="32.857143"
+         y="874.50507"
+         id="tspan4675">acquiring the capacity of dominate them.</tspan><tspan
+         sodipodi:role="line"
+         x="32.857143"
+         y="899.50507"
+         id="tspan4693">Although he's able to shape the matter, is </tspan><tspan
+         sodipodi:role="line"
+         x="32.857143"
+         y="924.50507"
+         id="tspan4695">perception is always human, so he needs to</tspan><tspan
+         sodipodi:role="line"
+         x="32.857143"
+         y="949.50507"
+         id="tspan4697">understand a model of a small and</tspan><tspan
+         sodipodi:role="line"
+         x="32.857143"
+         y="974.50507"
+         id="tspan4699"> invisible level in order to act on it.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'STIX Math';-inkscape-font-specification:'STIX Math, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="411.42859"
+       y="755.21936"
+       id="text4679"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4681"
+         x="411.42859"
+         y="755.21936">Multitasking is the ability to</tspan><tspan
+         sodipodi:role="line"
+         x="411.42859"
+         y="780.21936"
+         id="tspan4683">perform more actions at the same </tspan><tspan
+         sodipodi:role="line"
+         x="411.42859"
+         y="805.21936"
+         id="tspan4685">time without lose focus.</tspan><tspan
+         sodipodi:role="line"
+         x="411.42859"
+         y="830.21936"
+         id="tspan4687">If this ability is developped, Atlas </tspan><tspan
+         sodipodi:role="line"
+         x="411.42859"
+         y="855.21936"
+         id="tspan4689">will be able to separate the processes</tspan><tspan
+         sodipodi:role="line"
+         x="411.42859"
+         y="880.21936"
+         id="tspan4691">in different tasks, until a limit of 8.</tspan></text>
+    <ellipse
+       style="opacity:1;fill:#4fffbe;fill-opacity:1;stroke:#120010;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4705"
+       cx="501.42856"
+       cy="954.50507"
+       rx="57.142857"
+       ry="55" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 501.42857,898.07649 c -1.42857,111.42861 0,111.42861 0,111.42861 z"
+       id="path4707"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 442.85714,953.79078 115.71429,0 z"
+       id="path4709"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 461.42857,916.64792 80,77.14286 z"
+       id="path4711"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 541.42857,916.64792 460,990.93363 Z"
+       id="path4713"
+       inkscape:connector-curvature="0" />
+    <ellipse
+       style="opacity:1;fill:#4f3cbe;fill-opacity:1;stroke:#120010;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4715"
+       cx="500.00003"
+       cy="953.07648"
+       rx="30"
+       ry="29.285715" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'STIX Math';-inkscape-font-specification:'STIX Math, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="481.42859"
+       y="958.07648"
+       id="text4717"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4719"
+         x="481.42859"
+         y="958.07648"
+         style="font-size:17.5px;fill:#ffffff;fill-opacity:1">Tasks</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'STIX Math';-inkscape-font-specification:'STIX Math, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="514.28571"
+       y="922.36224"
+       id="text4721"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4723"
+         x="514.28571"
+         y="922.36224">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'STIX Math';-inkscape-font-specification:'STIX Math, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="534.28571"
+       y="942.36218"
+       id="text4725"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4727"
+         x="534.28571"
+         y="942.36218">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'STIX Math';-inkscape-font-specification:'STIX Math, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="535.71423"
+       y="978.07654"
+       id="text4729"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4731"
+         x="535.71423"
+         y="978.07654">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'STIX Math';-inkscape-font-specification:'STIX Math, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="511.42859"
+       y="995.21936"
+       id="text4733"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4735"
+         x="511.42859"
+         y="995.21936">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'STIX Math';-inkscape-font-specification:'STIX Math, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="478.57144"
+       y="996.64789"
+       id="text4737"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4739"
+         x="478.57144"
+         y="996.64789">5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'STIX Math';-inkscape-font-specification:'STIX Math, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="455.71429"
+       y="975.21936"
+       id="text4741"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4743"
+         x="455.71429"
+         y="975.21936">6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'STIX Math';-inkscape-font-specification:'STIX Math, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="457.14285"
+       y="943.79077"
+       id="text4745"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4747"
+         x="457.14285"
+         y="943.79077">7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'STIX Math';-inkscape-font-specification:'STIX Math, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="480"
+       y="920.93359"
+       id="text4749"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4751"
+         x="480"
+         y="920.93359">8</tspan></text>
+  </g>
+</svg>
