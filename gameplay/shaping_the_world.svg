@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="shaping_the_world.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4719">
+      <stop
+         style="stop-color:#929895;stop-opacity:1;"
+         offset="0"
+         id="stop4721" />
+      <stop
+         style="stop-color:#929895;stop-opacity:0;"
+         offset="1"
+         id="stop4723" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker4647"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4649"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker4607"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path4609" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path4302"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4299"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.1811 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09449 : 526.1811 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.7874 : 1"
+       id="perspective3445" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4719"
+       id="radialGradient4725"
+       cx="486.42859"
+       cy="509.50507"
+       fx="486.42859"
+       fy="509.50507"
+       r="106"
+       gradientTransform="matrix(1.2156334,0.01347721,-0.01235584,1.1144868,-98.594899,-64.887279)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="369.04671"
+     inkscape:cy="386.49763"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="false"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="100"
+       y="146.64792"
+       id="text3336"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3338"
+         x="100"
+         y="146.64792" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:125%;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="70"
+       y="80.933632"
+       id="text3340"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3342"
+         x="70"
+         y="80.933632"
+         style="-inkscape-font-specification:'GFS Theokritos';font-family:'GFS Theokritos';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Shaping the world</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:125%;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="72.85714"
+       y="212.3622"
+       id="text3363"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3365"
+         x="72.85714"
+         y="212.3622" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:125%;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="64.285713"
+       y="149.50507"
+       id="text3367"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3369"
+         x="64.285713"
+         y="149.50507"><tspan
+           style="font-size:22.5px"
+           id="tspan3397"> The world where Atlas lives is an</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:125%;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="270"
+       y="185.21935"
+       id="text3371"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3373"
+         x="270"
+         y="185.21935" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:125%;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="382.85715"
+       y="149.50507"
+       id="text3375"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3377"
+         x="382.85715"
+         y="149.50507"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Italic'">openworld</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3379"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:'Linux Libertine O';font-style:normal;font-weight:normal;font-size:35px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Linux Libertine O, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"><flowRegion
+         id="flowRegion3381"><rect
+           id="rect3383"
+           width="20"
+           height="50"
+           x="565.71429"
+           y="82.362206" /></flowRegion><flowPara
+         id="flowPara3385"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:125%;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="482.85715"
+       y="149.50507"
+       id="text3387"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="482.85715"
+         y="149.50507"
+         id="tspan3391"
+         style="font-size:22.5px">where every entity</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:125%;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="68.571434"
+       y="179.50507"
+       id="text3403"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3405"
+         x="68.571434"
+         y="179.50507"
+         style="font-size:22.5px">should be focusable and should have an elementary structure.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="71.428574"
+       y="210.93362"
+       id="text3407"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3409"
+         x="71.428574"
+         y="210.93362" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="68.571426"
+       y="206.64792"
+       id="text3411"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3413"
+         x="68.571426"
+         y="206.64792" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="71.428574"
+       y="223.79079"
+       id="text3415"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3417"
+         x="71.428574"
+         y="223.79079">Not everything will be object of shaping, but what you can interact </tspan><tspan
+         sodipodi:role="line"
+         x="71.428574"
+         y="251.91579"
+         id="tspan3421">with will have some levels of substructures. Each level corresponds</tspan><tspan
+         sodipodi:role="line"
+         x="71.428574"
+         y="280.04077"
+         id="tspan3425">to an order of magnitude and has a different behaviour, so a different </tspan><tspan
+         sodipodi:role="line"
+         x="71.428574"
+         y="308.16577"
+         id="tspan3429">gameplay. The reason to make such a difference for the levels is that, </tspan><tspan
+         sodipodi:role="line"
+         x="71.428574"
+         y="336.29077"
+         id="tspan3435">for example, you can apply the Netwon's laws to describe falling rocks </tspan><tspan
+         sodipodi:role="line"
+         x="71.428574"
+         y="364.41577"
+         id="tspan3439">in the &quot;macro&quot; level, but you cannot do the same to an electron orbiting </tspan><tspan
+         sodipodi:role="line"
+         x="71.428574"
+         y="392.54077"
+         id="tspan3441">around a nucleus.  </tspan></text>
+    <g
+       sodipodi:type="inkscape:box3d"
+       id="g3447"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#120010;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:perspectiveID="#perspective3445"
+       inkscape:corner0="4.1065307 : 0.49399189 : 0 : 1"
+       inkscape:corner7="3.2005333 : 0.32345193 : 0.25 : 1">
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path3459"
+         style="fill:#e9e9ff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         inkscape:box3dsidetype="11"
+         d="m 104.18513,466.70266 21.20902,-12.10806 0,38.31899 -21.20902,5.62683 z"
+         points="125.39415,454.5946 125.39415,492.91359 104.18513,498.54042 104.18513,466.70266 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path3449"
+         style="fill:#353564;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         inkscape:box3dsidetype="6"
+         d="m 72.857143,463.79078 0,33.39644 31.327987,1.3532 0,-31.83776 z"
+         points="72.857143,497.18722 104.18513,498.54042 104.18513,466.70266 72.857143,463.79078 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path3451"
+         style="fill:#4d4d9f;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         inkscape:box3dsidetype="5"
+         d="m 72.857143,463.79078 15.714286,-13.45674 36.822721,4.26056 -21.20902,12.10806 z"
+         points="88.571429,450.33404 125.39415,454.5946 104.18513,466.70266 72.857143,463.79078 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path3457"
+         style="fill:#afafde;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         inkscape:box3dsidetype="13"
+         d="m 72.857143,497.18722 15.714286,-6.25359 36.822721,1.97996 -21.20902,5.62683 z"
+         points="88.571429,490.93363 125.39415,492.91359 104.18513,498.54042 72.857143,497.18722 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path3455"
+         style="fill:#d7d7ff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         inkscape:box3dsidetype="14"
+         d="m 88.571429,450.33404 0,40.59959 36.822721,1.97996 0,-38.31899 z"
+         points="88.571429,490.93363 125.39415,492.91359 125.39415,454.5946 88.571429,450.33404 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path3453"
+         style="fill:#8686bf;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         inkscape:box3dsidetype="3"
+         d="m 72.857143,463.79078 15.714286,-13.45674 0,40.59959 -15.714286,6.25359 z"
+         points="88.571429,450.33404 88.571429,490.93363 72.857143,497.18722 72.857143,463.79078 " />
+    </g>
+    <g
+       sodipodi:type="inkscape:box3d"
+       id="g3461"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#120010;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:perspectiveID="#perspective3445"
+       inkscape:corner0="1.2451126 : 0.29943052 : 0 : 1"
+       inkscape:corner7="0.97297777 : 0.20829518 : 0.11622099 : 1">
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path3473"
+         style="fill:#e9e9ff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         inkscape:box3dsidetype="11"
+         d="m 194.18122,473.65283 25.29365,-6.84223 0,43.62214 -25.29365,1.81494 z"
+         points="219.47487,466.8106 219.47487,510.43274 194.18122,512.24768 194.18122,473.65283 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path3463"
+         style="fill:#353564;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         inkscape:box3dsidetype="6"
+         d="m 165.71429,470.93363 0,40.59277 28.46693,0.72128 0,-38.59485 z"
+         points="165.71429,511.5264 194.18122,512.24768 194.18122,473.65283 165.71429,470.93363 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path3465"
+         style="fill:#4d4d9f;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         inkscape:box3dsidetype="5"
+         d="m 165.71429,470.93363 22.85714,-7.62034 30.90344,3.49731 -25.29365,6.84223 z"
+         points="188.57143,463.31329 219.47487,466.8106 194.18122,473.65283 165.71429,470.93363 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path3471"
+         style="fill:#afafde;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         inkscape:box3dsidetype="13"
+         d="m 165.71429,511.5264 22.85714,-2.02134 30.90344,0.92768 -25.29365,1.81494 z"
+         points="188.57143,509.50506 219.47487,510.43274 194.18122,512.24768 165.71429,511.5264 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path3469"
+         style="fill:#d7d7ff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         inkscape:box3dsidetype="14"
+         d="m 188.57143,463.31329 0,46.19177 30.90344,0.92768 0,-43.62214 z"
+         points="188.57143,509.50506 219.47487,510.43274 219.47487,466.8106 188.57143,463.31329 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path3467"
+         style="fill:#8686bf;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         inkscape:box3dsidetype="3"
+         d="m 165.71429,470.93363 22.85714,-7.62034 0,46.19177 -22.85714,2.02134 z"
+         points="188.57143,463.31329 188.57143,509.50506 165.71429,511.5264 165.71429,470.93363 " />
+    </g>
+    <g
+       sodipodi:type="inkscape:box3d"
+       id="g3475"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#120010;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:perspectiveID="#perspective3445"
+       inkscape:corner0="1.9262142 : 0.24509294 : 0 : 1"
+       inkscape:corner7="1.5532654 : 0.11584148 : 0.15065123 : 1">
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path3485"
+         style="fill:#afafde;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         inkscape:box3dsidetype="13"
+         d="m 127.14286,546.5324 18.57142,2.97266 33.33931,-1.29952 -21.7032,-2.66959 z"
+         points="145.71428,549.50506 179.05359,548.20554 157.35039,545.53595 127.14286,546.5324 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path3477"
+         style="fill:#353564;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         inkscape:box3dsidetype="6"
+         d="m 127.14286,502.3622 0,44.1702 30.20753,-0.99645 0,-42.00751 z"
+         points="127.14286,546.5324 157.35039,545.53595 157.35039,503.52844 127.14286,502.3622 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path3487"
+         style="fill:#e9e9ff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         inkscape:box3dsidetype="11"
+         d="m 157.35039,503.52844 21.7032,-3.12446 0,47.80156 -21.7032,-2.66959 z"
+         points="179.05359,500.40398 179.05359,548.20554 157.35039,545.53595 157.35039,503.52844 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path3479"
+         style="fill:#4d4d9f;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         inkscape:box3dsidetype="5"
+         d="m 127.14286,502.3622 18.57142,-3.47916 33.33931,1.52094 -21.7032,3.12446 z"
+         points="145.71428,498.88304 179.05359,500.40398 157.35039,503.52844 127.14286,502.3622 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path3483"
+         style="fill:#d7d7ff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         inkscape:box3dsidetype="14"
+         d="m 145.71428,498.88304 0,50.62202 33.33931,-1.29952 0,-47.80156 z"
+         points="145.71428,549.50506 179.05359,548.20554 179.05359,500.40398 145.71428,498.88304 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path3481"
+         style="fill:#8686bf;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         inkscape:box3dsidetype="3"
+         d="m 127.14286,502.3622 18.57142,-3.47916 0,50.62202 -18.57142,-2.97266 z"
+         points="145.71428,498.88304 145.71428,549.50506 127.14286,546.5324 127.14286,502.3622 " />
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4647)"
+       d="m 98.571429,476.64792 0,88.57143 z"
+       id="path3489"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4607)"
+       d="m 160,526.64792 1.42857,78.57143 z"
+       id="path3491"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 198.57143,492.3622 -1.42857,78.57143 z"
+       id="path3493"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="51.42857"
+       y="625.21936"
+       id="text4687"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4689"
+         x="51.42857"
+         y="625.21936">Newton's representation </tspan><tspan
+         sodipodi:role="line"
+         x="51.42857"
+         y="650.21936"
+         id="tspan4691">of the rocks elevation against</tspan><tspan
+         sodipodi:role="line"
+         x="51.42857"
+         y="675.21936"
+         id="tspan4693">the gravity</tspan></text>
+    <ellipse
+       style="opacity:1;fill:url(#radialGradient4725);fill-opacity:1;stroke:#120010;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+       id="path4695"
+       cx="486.42859"
+       cy="509.50507"
+       rx="105"
+       ry="91.428574" />
+    <g
+       sodipodi:type="inkscape:box3d"
+       id="g4697"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#120010;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:perspectiveID="#perspective3445"
+       inkscape:corner0="-0.20841014 : 0.19990273 : 0 : 1"
+       inkscape:corner7="-0.22948797 : 0.1849406 : 0.041294203 : 1">
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path4709"
+         style="fill:#e9e9ff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         inkscape:box3dsidetype="11"
+         d="m 483.58955,496.75442 12.55597,-0.76404 0,18.43066 -12.55597,0.29762 z"
+         points="496.14552,495.99038 496.14552,514.42104 483.58955,514.71866 483.58955,496.75442 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path4699"
+         style="fill:#353564;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         inkscape:box3dsidetype="6"
+         d="m 470,495.21934 0,18.90136 13.58955,0.59796 0,-17.96424 z"
+         points="470,514.1207 483.58955,514.71866 483.58955,496.75442 470,495.21934 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path4701"
+         style="fill:#4d4d9f;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         inkscape:box3dsidetype="5"
+         d="m 470,495.21934 12.85714,-0.84698 13.28838,1.61802 -12.55597,0.76404 z"
+         points="482.85714,494.37236 496.14552,495.99038 483.58955,496.75442 470,495.21934 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path4707"
+         style="fill:#afafde;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         inkscape:box3dsidetype="13"
+         d="m 470,514.1207 12.85714,-0.32992 13.28838,0.63026 -12.55597,0.29762 z"
+         points="482.85714,513.79078 496.14552,514.42104 483.58955,514.71866 470,514.1207 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path4705"
+         style="fill:#d7d7ff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         inkscape:box3dsidetype="14"
+         d="m 482.85714,494.37236 0,19.41842 13.28838,0.63026 0,-18.43066 z"
+         points="482.85714,513.79078 496.14552,514.42104 496.14552,495.99038 482.85714,494.37236 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path4703"
+         style="fill:#8686bf;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         inkscape:box3dsidetype="3"
+         d="m 470,495.21934 12.85714,-0.84698 0,19.41842 L 470,514.1207 Z"
+         points="482.85714,494.37236 482.85714,513.79078 470,514.1207 470,495.21934 " />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="382.85715"
+       y="626.64795"
+       id="text4831"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4833"
+         x="382.85715"
+         y="626.64795">Orbital of an electron shield around an </tspan><tspan
+         sodipodi:role="line"
+         x="382.85715"
+         y="648.52295"
+         id="tspan4835">hydrogen nucleus.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="58.57143"
+       y="723.79077"
+       id="text4837"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4839"
+         x="58.57143"
+         y="723.79077" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="57.142857"
+       y="722.36218"
+       id="text4841"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4843"
+         x="57.142857"
+         y="722.36218">Not all the levels are visible at the beginning by Atlas, in fact, before to</tspan><tspan
+         sodipodi:role="line"
+         x="57.142857"
+         y="750.48718"
+         id="tspan4845">be dominated, they have to be discovered and understood. This is related</tspan><tspan
+         sodipodi:role="line"
+         x="57.142857"
+         y="778.61218"
+         id="tspan4847">uniquely with the &quot;Capacity of perspective&quot;, which determines how open</tspan><tspan
+         sodipodi:role="line"
+         x="57.142857"
+         y="806.73718"
+         id="tspan4849">is Atlas mind to imagine how the matter works deep out of the limits of</tspan><tspan
+         sodipodi:role="line"
+         x="57.142857"
+         y="834.86218"
+         id="tspan4851">the direct perception.</tspan><tspan
+         sodipodi:role="line"
+         x="57.142857"
+         y="862.98718"
+         id="tspan4853">So, Atlas doesn't shape the matter because he knows precisely how it is </tspan><tspan
+         sodipodi:role="line"
+         x="57.142857"
+         y="891.11218"
+         id="tspan4857">composed, but he merges what he sees directly with his knowledge </tspan><tspan
+         sodipodi:role="line"
+         x="57.142857"
+         y="919.23718"
+         id="tspan4861">and acts following the model known by him.</tspan><tspan
+         sodipodi:role="line"
+         x="57.142857"
+         y="947.36218"
+         id="tspan4871">That's why the representation of &quot;micro&quot; should be in every case ordered</tspan><tspan
+         sodipodi:role="line"
+         x="57.142857"
+         y="975.48718"
+         id="tspan4873">and harmonical, instead of chaotic and too fast to be caught.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:125%;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="510"
+       y="916.64795"
+       id="text4867"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4869"
+         x="510"
+         y="916.64795" /></text>
+  </g>
+</svg>
