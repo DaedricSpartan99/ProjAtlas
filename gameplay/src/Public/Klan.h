@@ -8,6 +8,9 @@
 #include "Socket.h"
 #include "Klan.generated.h"
 
+DECLARE_DELEGATE_TwoParams(FSocketCaller, float, struct ActionFeedback&);
+
+DECLARE_DYNAMIC_DELEGATE_OneParam(FControlModeEvent, bool, Value);
 
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
 class ATLAS_API UKlan : public UActorComponent
@@ -29,8 +32,8 @@ public:
 	UFUNCTION(BlueprintCallable, Category = "Klan")
 		void Setup(class AActor *parent, class USphereComponent *rangeSphere);
 
-	UFUNCTION()
-		void OnRangeEnter(UPrimitiveComponent* OverlappedComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult);
+	//UFUNCTION()
+		//void OnRangeEnter(UPrimitiveComponent* OverlappedComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult);
 
 	UFUNCTION()
 		void OnRangeExit(UPrimitiveComponent* OverlappedComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex);
@@ -38,24 +41,30 @@ public:
 	UPROPERTY(BlueprintReadWrite)
 		float Energy;
 
+	UFUNCTION(BlueprintCallable, Category = "Klan")
+		void SwitchControlMode(bool Value);
+
+	UPROPERTY(BlueprintReadOnly)
+		bool ControlMode;
+
+	UPROPERTY(BlueprintReadWrite)
+		FControlModeEvent CtrlEvent;
+
 	UPROPERTY(BlueprintReadWrite)
 		bool ActionsEnabled;
 
 	UFUNCTION(BlueprintCallable, Category = "Klan")
-		void PushAction(class USocket *socket);
+		void PushAction(class USocket * Socket);
 
 	UFUNCTION(BlueprintCallable, Category = "Klan")
-		void RemoveAction(class USocket *socket);
+		void RemoveAction(class USocket * Socket);
 
 	UFUNCTION(BlueprintCallable, Category = "Klan")
 		void ClearActions();
-
-protected:
-
-	TArray<class USocket*> actions;
 	
 private:
 
+	TMap<USocket*, FSocketCaller> SocketMap;
 	AActor *parent;
 	USphereComponent *rangeSphere;
 };

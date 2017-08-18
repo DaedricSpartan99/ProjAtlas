@@ -23,18 +23,6 @@ class ATLAS_API IInteractable
 
 	// Add interface functions to this class. This is the class that will be inherited to implement this interface.
 public:
-	
-	UFUNCTION(BlueprintCallable, BlueprintImplementableEvent, Category = "Klan")
-		void SetKlanAllowed(UKlan *Klan);
-
-	UFUNCTION(BlueprintCallable, BlueprintImplementableEvent, Category = "Klan")
-		void SetKlanNotAllowed(UKlan *Klan);
-
-	UFUNCTION(BlueprintCallable, BlueprintImplementableEvent, Category = "Klan")
-		bool IsKlanAllowed(UKlan *Klan);
-
-	UFUNCTION(BlueprintCallable, BlueprintImplementableEvent, Category = "Klan")
-		void ListKlansAllowed(TArray<UKlan*> &List);
 
 	UFUNCTION(BlueprintCallable, BlueprintImplementableEvent, Category = "Klan")
 		void GetNodes(TArray<UAbstractNode*> &List);

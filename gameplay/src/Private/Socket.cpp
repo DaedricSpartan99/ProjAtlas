@@ -10,3 +10,8 @@ USocket::USocket() : UObject()
 USocket::~USocket()
 {
 }
+
+const TArray<AActor*>& USocket::GetDependencies() const {
+
+	return this->dependencies;
+}

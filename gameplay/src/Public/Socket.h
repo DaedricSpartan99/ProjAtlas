@@ -5,13 +5,9 @@
 #include "CoreMinimal.h"
 #include "Socket.generated.h"
 
-struct Action {
+struct ActionFeedback {
 
 	float energy;
-	FVector force;
-	float power;
-	bool enough;
-
 };
 
 /**
@@ -28,8 +24,15 @@ public:
 	USocket();
 	~USocket();
 
-	virtual void TickSocket(float DeltaTime, struct Action& action) PURE_VIRTUAL(USocket::TickSocket,);
+	virtual void TickSocket(float DeltaTime, struct ActionFeedback& action) PURE_VIRTUAL(USocket::TickSocket,);
 
 	UPROPERTY(BlueprintReadWrite)
 	float intensity;
+
+	UFUNCTION(BlueprintCallable, Category = "Socket")
+		const TArray<AActor*>& GetDependencies() const;
+
+protected:
+
+	TArray<AActor*> dependencies;
 };
